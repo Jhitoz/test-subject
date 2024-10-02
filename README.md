@@ -1,2 +1,2 @@
-# Role-play game
+# Dragon RPG
 This repo contains files for a roleplaying game 
