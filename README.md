@@ -1,2 +1,2 @@
-# test-subject
-One portfolio which may hold multiple files or so.
+# Role-play game
+This repo contains files for a roleplaying game 
